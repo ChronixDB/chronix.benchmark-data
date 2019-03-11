@@ -13,4 +13,4 @@ All files are zipped to reduce space (\*.csv.gz).
 P4 contains 498 time series with 3.8 mio pairs of time stamp and numeric value (data of a few hours measurement)
 
 ## P5
-P4 contains 24,055 time series with 3.8 billion pairs of time stamp and numeric value (data of up to three months)
+P5 contains 24,055 time series with 3.8 billion pairs of time stamp and numeric value (data of up to three months)

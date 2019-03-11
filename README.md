@@ -3,7 +3,7 @@ This repository contains the time series of two projects (P4 and P5). These were
 
 ## Structure
 The file names contain information separated by "\_": `<host>_<process>_<logical-group>_<name>_<date>`
-A pair of a time series conists of a timestamp and a numeric value.
+A pair of a time series consists of a timestamp and a numeric value.
 
 Example: `12.08.2015 17:25:40.964;213,385,216` (note that they are `;`-separted)
 

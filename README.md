@@ -10,7 +10,7 @@ Example: `12.08.2015 17:25:40.964;213,385,216` (note that they are `;`-separted)
 All files are zipped to reduce space (\*.csv.gz).
 
 ## P4
-P4 contains 498 time series with 3.8 mio pairs of time stamp and numeric value.
+P4 contains 498 time series with 3.8 mio pairs of time stamp and numeric value (data of a few hours measurement)
 
 ## P5
-P4 contains 24,055 time series with 3.8 billion pairs of time stamp and numeric value.
+P4 contains 24,055 time series with 3.8 billion pairs of time stamp and numeric value (data of up to three months)
